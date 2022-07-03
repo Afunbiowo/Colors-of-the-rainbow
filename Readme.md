@@ -1,0 +1,1 @@
+This code completes the colors of the rainbow in an array by using the .splice() method to add or remove colors at different index.  
